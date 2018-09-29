@@ -1,0 +1,50 @@
+{
+	"data":[
+		{
+			"id":1,
+			"name":"Lathasri",
+			"email":"lathababy569@gmail.com",
+			"phone":"1234567890",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"SVIT Engg college",
+					"data":["72%","2016-20"]
+				},
+				{
+					"degree":"intermediate",
+					"institute":"LRG Naidu jr college",
+					"data":["75%","2014-16"]
+				},
+				{
+					"degree":"Tenth",
+					"institute":"ZPH School",
+					"data":["78%","2013-14"]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"Baby",
+			"email":"lathachinnu528@gmail.com",
+			"phone":"1234567890",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"SVIT Engg college",
+					"data":["72%","2016-20"]
+				},
+				{
+					"degree":"INTERMEDIATE",
+					"institute":"SSS Engg college",
+					"data":["72%","2014-16"]
+				},
+				{
+					"degree":"TENTH",
+					"institute":"ZPH SCHOOL",
+					"data":["72%","2013-14"]
+				}
+			]
+		}
+	]
+}
